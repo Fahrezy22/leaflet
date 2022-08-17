@@ -57,6 +57,27 @@
         <!-- main JS
             ============================================ -->
         <script src="{{asset('template/admin/js/main.js')}}"></script>
-        <!-- tawk chat JS
+
+        <!-- data table JS
+		============================================ -->
+        <script src="{{asset('template/admin/js/data-table/bootstrap-table.js')}}"></script>
+        <script src="{{asset('template/admin/js/data-table/tableExport.js')}}"></script>
+        <script src="{{asset('template/admin/js/data-table/data-table-active.js')}}"></script>
+        <script src="{{asset('template/admin/js/data-table/bootstrap-table-editable.js')}}"></script>
+        <script src="{{asset('template/admin/js/data-table/bootstrap-editable.js')}}"></script>
+        <script src="{{asset('template/admin/js/data-table/bootstrap-table-resizable.js')}}"></script>
+        <script src="{{asset('template/admin/js/data-table/colResizable-1.5.source.js')}}"></script>
+        <script src="{{asset('template/admin/js/data-table/bootstrap-table-export.js')}}"></script>
+        <!--  editable JS
             ============================================ -->
-        <script src="{{asset('template/admin/js/tawk-chat.js')}}"></script>
+        <script src="{{asset('template/admin/js/editable/jquery.mockjax.js')}}"></script>
+        <script src="{{asset('template/admin/js/editable/mock-active.js')}}"></script>
+        <script src="{{asset('template/admin/js/editable/select2.js')}}"></script>
+        <script src="{{asset('template/admin/js/editable/moment.min.js')}}"></script>
+        <script src="{{asset('template/admin/js/editable/bootstrap-datetimepicker.js')}}"></script>
+        <script src="{{asset('template/admin/js/editable/bootstrap-editable.js')}}"></script>
+        <script src="{{asset('template/admin/js/editable/xediable-active.js')}}"></script>
+        <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+
+        
+
