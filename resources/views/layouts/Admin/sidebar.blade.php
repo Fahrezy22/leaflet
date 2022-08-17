@@ -2,8 +2,8 @@
     <div class="left-sidebar-pro">
         <nav id="sidebar" class="">
             <div class="sidebar-header">
-                <a href="index.html"><img class="main-logo" src="{{asset('template/admin/img/logo/logo.png')}}" alt="" /></a>
-                <strong><a href="index.html"><img src="{{asset('template/admin/img/logo/logosn.png')}}" alt="" /></a></strong>
+                <a href="index.html"><img class="main-logo" src="{{asset('template/admin/img/logo/begal.png')}}" alt="" /></a>
+                <strong><a href="index.html"><img src="{{asset('template/admin/img/logo/begalsn.png')}}" alt="" /></a></strong>
                 <hr>
             </div>
             <div class="left-custom-menu-adp-wrap comment-scrollbar">
