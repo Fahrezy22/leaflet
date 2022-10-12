@@ -49,7 +49,7 @@
             </div>
             <div class="sparkline13-graph">
                 <div id="map" class="map-canvas" data-lat="40.748817" data-lng="-73.985428"
-                        style="height: 300px; position: static; overflow: hidden;">
+                        style="height: 300px; position: relative; overflow: hidden;">
                     <script>
                         var map = L.map('map').setView([-0.8917, 119.8707], 13);
 
