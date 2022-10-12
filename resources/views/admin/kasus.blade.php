@@ -64,7 +64,7 @@
     </div>
 </div>
 
-<div class="row">
+{{-- <div class="row">
     <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
         <div class="sparkline13-list">
             <div class="sparkline13-graph">
@@ -139,7 +139,7 @@
             </div>
         </div>
     </div>
-</div>
+</div> --}}
 
 <div id="univ-modal" class="modal fade" role="dialog">
     <div class="modal-dialog modal-lg">
